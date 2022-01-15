@@ -1,0 +1,45 @@
+body {
+  background-color: rgb(250,0,60)
+}
+#theme {
+  font-style: italic;
+  color: white;
+  text-align: center;
+  font-size: 50px;
+
+}
+#start {
+  margin-top: 100px;
+  margin-left:680px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#stop {
+
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#hours {
+  display:inline;
+  margin-top: 200px;
+  margin-left:680px;
+  padding-left: 0px;
+  padding-top: 50px;
+  padding-bottom: 10px;
+  font-size: 50px;
+  color: white;
+}
+#minutes{
+  display: inline-block;
+  font-size: 50px;
+  color: white;
+}
+#seconds{
+  display: inline-block;
+  font-size: 50px;
+  color: white;
+}
